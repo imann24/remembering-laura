@@ -1,0 +1,14 @@
+{
+    "name": "remembering-laura",
+    "version": "1.0.0",
+    "description": "A site dedicated the memory of my mother, Laura Mann",
+    "main": "index.js",
+    "author": "IsaiahM",
+    "license": "MIT",
+    "scripts": {
+        "start": "http-server src/."
+    },
+    "devDependencies": {
+        "http-server": "^0.12.3"
+    }
+}
